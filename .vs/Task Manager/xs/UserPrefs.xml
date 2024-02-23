@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{DE0F1F4C-AED6-46DA-B88B-F582D71FB3F3}|Default" GitUserInfo="UsingGIT">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task Manager/TaskManager.cs">
+    <Files>
+      <File FileName="Task Manager/TaskManager.cs" Line="7" Column="5" />
+      <File FileName="Task Manager/Task.cs" Line="18" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task Manager" expanded="True">
+            <Node name="Task Manager" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Task_220Manager PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
